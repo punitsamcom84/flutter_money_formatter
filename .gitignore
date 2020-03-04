@@ -7,3 +7,5 @@ pubspec.lock
 
 build/
 .vscode/tasks.json
+
+example/.flutter-plugins-dependencies
